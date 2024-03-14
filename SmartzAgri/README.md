@@ -29,6 +29,16 @@ Follow these instructions to get a copy of the Employee Management System projec
 * python
 
 
+Installation
+Clone the Employee Management System repository to your local machine
+git clone https://github.com/sanjeetbth7/CropReco.git
+Install nodejs
+https://nodejs.org/en/download
+Install Expressjs
+$ npm init
+$ npm install express
+
+
 ## Problem Statement
 
 A significant number of farmers remain unacquainted with evolving agricultural technologies. Coupled with the complex chemical compositions of their soil, traditional farming practices persist, leading to unforeseen challenges. Unaware of the long-term consequences, farmers continue to sow crops based on historical practices, unknowingly contributing to soil infertility.
