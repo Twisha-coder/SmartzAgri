@@ -1,9 +1,9 @@
+
 # SmartzAgri : Empowering Farmers with Precision Agriculture
 
-SmartzAgri is an innovative agricultural solution designed to revolutionize traditional farming practices by providing personalized and data-driven recommendations for crop cultivation. Leveraging advanced technologies, including machine learning algorithms and Internet of Things (IoT) devices, SmartzAgri empowers farmers with precise insights and suggestions to optimize yield and profitability while promoting sustainable farming practices.
+SmartzAgri is an innovative agricultural solution designed to revolutionize traditional farming practices by providing personalized and data-driven recommendations for crop cultivation. Leveraging advanced technologies, including machine learning algorithms and Internet of Things (IoT) devices, CropReco empowers farmers with precise insights and suggestions to optimize yield and profitability while promoting sustainable farming practices.
 
 <img src="https://github.com/sanjeetbth7/SmartzAgri/blob/master/public/images/logo.png" alt="CropReco Logo" width="150" height="150">
-WEBSITE : https://smartzagri.onrender.com/
 
 
 ## Team Members ( Infinite Void )
@@ -27,17 +27,14 @@ Follow these instructions to get a copy of the Employee Management System projec
 * nodejs
 * Expressjs
 * python
-
-
-Installation
-Clone the Employee Management System repository to your local machine
-git clone https://github.com/sanjeetbth7/CropReco.git
-Install nodejs
-https://nodejs.org/en/download
-Install Expressjs
-$ npm init
-$ npm install express
-
+# Installation
+  1) Clone the Employee Management System repository to your local machine
+    <pre>git clone https://github.com/sanjeetbth7/SmartAgri.git<pre>
+  2) Install nodejs
+     <pre>https://nodejs.org/en/download</pre>
+  3) Install Expressjs
+     <pre>$ npm init
+      $ npm install express</pre>
 
 ## Problem Statement
 
