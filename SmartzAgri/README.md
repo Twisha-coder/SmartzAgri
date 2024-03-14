@@ -27,14 +27,7 @@ Follow these instructions to get a copy of the Employee Management System projec
 * nodejs
 * Expressjs
 * python
-# Installation
-  1) Clone the Employee Management System repository to your local machine
-    <pre>git clone https://github.com/sanjeetbth7/SmartAgri.git<pre>
-  2) Install nodejs
-     <pre>https://nodejs.org/en/download</pre>
-  3) Install Expressjs
-     <pre>$ npm init
-      $ npm install express</pre>
+
 
 ## Problem Statement
 
