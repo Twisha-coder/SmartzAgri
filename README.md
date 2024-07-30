@@ -104,7 +104,7 @@ By addressing these challenges and leveraging advanced technologies, FASAL SUJHA
   
 - **Sustainable Farming Practices:** With smart irrigation and soil health analysis, CropReco promotes sustainable farming practices, helping farmers make environmentally conscious decisions and reduce resource wastage.
 
-CropReco is not just a tool; it's a comprehensive solution that aims to make agriculture smarter, more efficient, and environmentally sustainable. By integrating cutting-edge technologies with agricultural expertise, CropReco empowers farmers to thrive in an ever-changing agricultural landscape.
+SmartzAgri is not just a tool; it's a comprehensive solution that aims to make agriculture smarter, more efficient, and environmentally sustainable. By integrating cutting-edge technologies with agricultural expertise, CropReco empowers farmers to thrive in an ever-changing agricultural landscape.
 
 ## Demo Video
 
